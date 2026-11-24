@@ -1,5 +1,5 @@
 from flask import Flask, request, send_file, jsonify
-from dotenv import load_dotenv
+
 from pathlib import Path
 from io import BytesIO
 from collections import Counter
